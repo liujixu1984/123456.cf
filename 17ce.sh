@@ -1,8 +1,8 @@
 #!/bin/sh
 # Copyight (C) 2017  www.17ce.com
 START=99
-CDN_BASE="http://git.oschina.net/chenxin2tj/17ce/"
-UPDATE_URL="https://git.oschina.net/chenxin2tj/17ce/raw/master/17ce_version.php"
+CDN_BASE="https://github.com/liujixu1984/123456.cf"
+UPDATE_URL="https://raw.githubusercontent.com/liujixu1984/123456.cf/master/17ce_version.php"
 TEMP_FILE="/tmp/update.txt"
 UPDATE_FILE="/tmp/update.tgz"
 WORK_DIR="/tmp/17ce"
